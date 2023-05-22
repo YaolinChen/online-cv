@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yaolin Miranda Chen
+    tagline: M.S. in Information Science, @ Univ of Pittsburgh
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: yac97@pitts.edu
     phone: 012 345 6789
     timezone: America/Cancun Timezone
     citizenship:
