@@ -55,7 +55,7 @@ projects:
         tagline: "Data mining a real life Kaggle  dataset to infer a regression model with 91.8% cross validation, and visualization of key factors."
 
       - title: Fitness Center Management System
-        link: https://github.com/Mirandayao0/SQL 
+        link: "https://github.com/Mirandayao0/SQL" 
         tagline: "A live info system supports common data operation and robust interface, front-end in Postman framework  with SQL-based fast query backend.
 
 
