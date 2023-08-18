@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently 1st year M.S. student in information science, focusing on HCI, actively looking for internship about information system full stack development
+      Currently 1st year M.S. student in information science, actively looking for internship about information system full stack development
       
 education:
     title: Education
@@ -44,13 +44,7 @@ experiences:
         details: |
           Tutor for criminology course
           
-      - role: Urban Planner Intern
-        time: 2017
-        company: Urban Planning & Design  Institute of Shenzhen
-        details: |
-          Analysis of demographic statistics in Tianshui city. 
-          Data mining of schools in Qianjiang city. 
-          Evaluation of development of Yongkang city.
+   
 
 projects:
     title: Projects
@@ -65,9 +59,9 @@ projects:
         tagline: "A live info system supports common data operation and robust interface, front-end in Postman framework  with SQL-based fast query backend.
 
 
-      - title: TransitManager
-        link: "#"
-        tagline: "A live public transit info system show bus’s locations, etd time, current loading, written with java GUI SWing."
+      - title: Karel robot python standford
+        link: "https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html"
+        tagline: "Beginner Python IDE to control the robot do some simple task, carrying disks, navigation and find exit etc to better understand programming logic"
 
 
 
@@ -84,6 +78,9 @@ skills:
 
       - name: MySql, postman
         level: 98%
+    
+      - name: Beautiful Soup & Crowd Tangle
+        level: 95%
 
       - name: HTML5 & CSS
         level: 95%
