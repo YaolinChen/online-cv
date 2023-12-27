@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently 2nd year M.S. student in information science, actively looking for internship about Data Analyst / information system full stack development
+      Currently 2nd year M.S. student in information science, actively looking for internship about Data Analyst / information system full stack development.
       
 education:
     title: Education
@@ -64,7 +64,7 @@ projects:
 
       - title: Fitness Center Management System
         link: "https://github.com/Mirandayao0/SQL" 
-        tagline: "A live info system supports common data operation and robust interface, front-end in Postman framework  with SQL-based fast query backend.
+        tagline: "A live info system supports common data operation and robust interface, front-end in Postman framework  with SQL-based fast query backend."
 
       - title: TransitManager
         link: "#hook"
@@ -80,13 +80,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python,pandas, scikit-learn,numpy,matplotlib,jupyternotebook 
+      - name: Python,pandas,numpy,matplotlib,scipy,jupyternotebook 
         level: 98%
 
       - name: Java, Swing
         level: 98%
 
-      - name: MySql, postman
+      - name: R, MySql, postman
         level: 98%
     
       - name: Beautiful Soup & Crowd Tangle
