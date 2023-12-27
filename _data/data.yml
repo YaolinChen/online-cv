@@ -80,7 +80,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python,pandas,numpy,matplotlib,scipy,jupyternotebook 
+      - name: Python,pandas,numpy, matplotlib,scipy,jupyternotebook 
         level: 98%
 
       - name: Java, Swing
