@@ -20,15 +20,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently 1st year M.S. student in information science, actively looking for internship about information system full stack development
+      Currently 2nd year M.S. student in information science, actively looking for internship about Data Analyst / information system full stack development
       
 education:
     title: Education
     info:
       - degree: MSc in Information Science
         university: University of Pittsburgh
-      - degree: BA in Sociology
-        university: Nanjing University
+      - degree: MA in Sociology
+        university: SUNY University at Buffalo
 experiences:
     title: Campus Experience
     info:
@@ -50,6 +50,14 @@ projects:
     title: Projects
     
     assignments:
+      - title: Predict Paint Property PPG (in R)
+        link: "https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html"
+        tagline: "A real-life data mining project to predict PPG Inc. paint property out of the various combination of color, saturation, hue etc. All way application from data clean, normalization and XGBoost perform best among major ML models."
+        
+      - title: Path Finding Visualization in Python
+        link: "#hook"
+        tagline: "a source-to-source path-finding algorithm using rapid spanning tree (RST) to avoid obstacles in various layout, then Dijstra/ A* to select short distance path."
+        
       - title: The Salary Prediction by Skill Sets
         link: "#hook"
         tagline: "Data mining a real life Kaggle  dataset to infer a regression model with 91.8% cross validation, and visualization of key factors."
@@ -58,10 +66,12 @@ projects:
         link: "https://github.com/Mirandayao0/SQL" 
         tagline: "A live info system supports common data operation and robust interface, front-end in Postman framework  with SQL-based fast query backend.
 
+      - title: TransitManager
+        link: "#hook"
+        tagline: "a live public transit info system show bus locations, ETA time, current loading, written with java "
 
-      - title: Karel robot python standford
-        link: "https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html"
-        tagline: "Beginner Python IDE to control the robot do some simple task, carrying disks, navigation and find exit etc to better understand programming logic"
+
+
 
 
 
