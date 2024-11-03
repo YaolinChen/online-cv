@@ -86,22 +86,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming: Python, Java, Shell, SQL, R    
+      - name: Programming, Python, Java, Shell, SQL, R    
         level: 98%
         
-      - name: Scripts: HTML, Latex, Markdown, RegEx  
+      - name: Scripts, HTML, Latex, Markdown, RegEx  
         level: 98%  
         
 
-      - name: Tools: git, CrowdTangle/Selenium, Postman, pandas/scipy/pytorch, java Swing.
+      - name: Tools, git, CrowdTangle/Selenium, Postman, pandas/scipy/pytorch, java Swing.
         level: 98%
 
-      - name: Data Visulization: Tableau, R Studio, matlibplot.
+      - name: Data Visulization, Tableau, R Studio, matlibplot.
         level: 98%
     
-      - name: Data Management: ETL, mySQL,MongoDB,Hadoop,Spark 
+      - name: Data Management, ETL, mySQL,MongoDB,Hadoop,Spark 
         level: 95%
 
-      - name:  Web: Javascript, Bootstrapping, AJAX,Oauth, RESTful, Jira/Confluence, Snowflake.
+      - name:  Web, Javascript, Bootstrapping, AJAX,Oauth, RESTful, Jira/Confluence, Snowflake.
         level: 95%
 
