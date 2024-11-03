@@ -27,22 +27,29 @@ education:
     info:
       - degree: MSc in Information Science
         university: University of Pittsburgh
-      - degree: MA in Sociology
-        university: SUNY University at Buffalo
+
+        
 experiences:
-    title: Campus Experience
+    title: Work Experience
     info:
-      - role: Graduate Teaching Assistant
-        time: 2019 - -2020
-        company: SUNY University at Buffalo
+      - role: Graduate Research Assistant
+        time: 2023.May-2023.Aug
+        company: Univ. of Pittsburgh
         details: |
-         Grading;Office Hour;Short Lecture
+         Teamwork to deliver CrowdTangle-based facebook fake posts/accounts detection at 97% accuracy using DNN and feature engineering.
+         Implement webpage script to lively visualize and report  malicious accounts based on meta graph api.
     
-      - role: Academic Performance Specialist
-        time: 2020 - 2021
-        company: SUNY University at Buffalo
+      - role: Data Analytic Intern
+        time: 2021.May-2021.August
+        company: DiDi, China leading ride-sharing company
         details: |
-          Tutor for criminology course
+          Tableau dashboard for bike-sharing usage, pricing and promotion, transportation hub planning strategy. Database migration and maintenance using ETL.
+
+      - role: Front-end Engineer
+        time: 2020.May-2020.Dec
+        company: Oversea Geeks Inc.
+        details: |
+          HTML5-UP web page design,, mySQL query sys, Google Analytic, auto email bot, AWS/Ali Cloud host.   
           
    
 
@@ -80,24 +87,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python,pandas,numpy, matplotlib,scipy,jupyternotebook 
+      - name: Programming: Python, Java, Shell, SQL, R    
+        level: 98%
+        
+      - name: Scripts: HTML, Latex, Markdown, RegEx  
+        level: 98%  
+        
+
+      - name: Tools: git, CrowdTangle/Selenium, Postman, pandas/scipy/pytorch, java Swing.
         level: 98%
 
-      - name: Java, Swing
-        level: 98%
-
-      - name: R, MySql, postman
+      - name: Data Visulization: Tableau, R Studio, matlibplot.
         level: 98%
     
-      - name: Beautiful Soup & Crowd Tangle
+      - name: Data Management: ETL, mySQL,MongoDB,Hadoop,Spark 
         level: 95%
 
-      - name: HTML5 & CSS
+      - name:  Web: Javascript, Bootstrapping, AJAX,Oauth, RESTful, Jira/Confluence, Snowflake.
         level: 95%
-
-      - name: Markdown
-        level: 85%
-
-      - name: shell
-        level: 60%
 
