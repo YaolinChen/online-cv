@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      M.S. student in information science, actively looking for a position about Data Analyst / information system/ full stack development.
+      M.S. student in information science, actively looking for a position about Data Analyst/information system/ full stack development.
       
 education:
     title: Education
@@ -38,17 +38,30 @@ experiences:
         details: |
          Teamwork to deliver CrowdTangle-based facebook fake posts/accounts detection at 97% accuracy using DNN and feature engineering. Implement webpage script to lively visualize and report  malicious accounts based on meta graph api.
     
-      - role: Data Analytic Intern
-        time: 2021.May-2021.August
-        company: DiDi, China leading ride-sharing company
+      - role: Product Manager
+        time: Dec.2021- Dec.2022
+        company: Meituan.Inc
         details: |
-          Tableau dashboard for bike-sharing usage, pricing and promotion, transportation hub planning strategy. Database migration and maintenance using ETL.
+          Tracked and analyzed demand and consumption metrics to ensure accurate alignment between supply chain operations and customer demand, improving on-time delivery rates.
+          Conducted data analysis and A/B testing to identify trends in customer attach rates, enabling more accurate forecasting and optimized pricing strategies.
+          Managed supply chain disruptions, including addressing component transitions and mitigating impacts on product availability, ensuring uninterrupted service delivery to customers.
 
       - role: Front-end Engineer
         time: 2020.May-2020.Dec
         company: Oversea Geeks Inc.
         details: |
-          HTML5-UP web page design,, mySQL query sys, Google Analytic, auto email bot, AWS/Ali Cloud host.   
+          Designed and integrated responsive HTML5-UP interfaces, ensuring seamless user experiences across devices and browsers.
+          Optimized front-end performance through efficient MySQL query integration and real-time data retrieval for dynamic content rendering.
+          Implemented Google Analytics tracking to monitor user engagement and behavior, providing actionable insights to improve front-end functionality.
+          Developed and deployed automated email bot solutions to enhance customer communication, hosted on scalable AWS EC2 cloud infrastructure for high reliability.  
+
+      - role: Data Analyst 
+        time: Nov.2017 – Jan.2018
+        company: Shenzhen Urban Planning Institute
+        details: |
+          Analyzed and visualized terabyte-scale GIS datasets (population, traffic, labor market, etc.) using ArcPy.
+          Developed predictive models for facility capacity using the Cohort-Component Model, enhancing forecasting accuracy through dynamic parameter tuning and demographic data modeling.
+          Provided actionable insights to support resource distribution strategies and optimize operational planning based on statistical analysis and data-driven recommendations.  
           
    
 
