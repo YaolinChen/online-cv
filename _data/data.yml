@@ -45,9 +45,9 @@ experiences:
         time: Dec.2021- Dec.2022
         company: Meituan.Inc
         details: |
-          Tracked and analyzed demand and consumption metrics to ensure accurate alignment between supply chain operations and customer demand, improving on-time delivery rates.
-          Conducted data analysis and A/B testing to identify trends in customer attach rates, enabling more accurate forecasting and optimized pricing strategies.
-          Managed supply chain disruptions, including addressing component transitions and mitigating impacts on product availability, ensuring uninterrupted service delivery to customers.
+              - Tracked and analyzed demand and consumption metrics to ensure accurate alignment between supply chain operations and customer demand, improving on-time delivery rates.
+              - Conducted data analysis and A/B testing to identify trends in customer attach rates, enabling more accurate forecasting and optimized pricing strategies.
+              - Managed supply chain disruptions, including addressing component transitions and mitigating impacts on product availability, ensuring uninterrupted service delivery to customers.
 
       - role: Front-end Engineer
         time: 2020.May-2020.Dec
