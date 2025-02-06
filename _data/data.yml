@@ -36,7 +36,8 @@ experiences:
         time: 2023.May-2023.Aug
         company: Univ. of Pittsburgh
         details: |
-                - Bullet point
+                - Teamwork to deliver CrowdTangle-based facebook fake posts/accounts detection at 97% accuracy using DNN and feature engineering. 
+                - Implement webpage script to lively visualize and report  malicious accounts based on meta graph api.
                 - Bullet point
 
     
